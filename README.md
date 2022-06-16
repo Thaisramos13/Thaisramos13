@@ -26,6 +26,11 @@
           <p align= "left"><a href= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40" </a>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain-wordmark.svg" alt="Chrome" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40"</a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40" </a>
 
+<h3 align="left"> 📊 Métricas do Github: </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thaisramos13&label=Profile%20views&color=0e75b6&style=flat" alt="Thaisramos13" /> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thaisramos13&show_icons=true&locale=en" alt="Thaisramos13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thaisramos13&" alt="Thaisramos13" /></p>
           
          
