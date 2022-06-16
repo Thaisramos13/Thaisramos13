@@ -30,3 +30,5 @@ http://github-protrophy.vercel.app/?username=thais-thais- de Dashboards](https:/
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisramos13&show_icons=true&locale=en" alt="thaisramos13" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaisramos13&" alt="thaisramos13" /></p>
+  
+[Snake animation](https://github.com/Thaisramos13/Thaisramos13/blob/output/github-contribution-grid-snake.svg)
