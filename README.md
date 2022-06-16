@@ -42,3 +42,5 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <a href="https://linkedin.com/in/thaisramos33023619a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40" /></a>
 <a href="https://discord.gg/Thai.ramos#3011" target="blank"><img align="center" src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  height="30" width="40" /></a>
 </p>
+
+  ![Snake animation](https://github.com/thaisramos13/thaisramos13/raw/main/github-contribution-grid-snake.svg)
