@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Thaisramos13/Thaisramos13/raw/main/assets/header-github.gif" alt="Oi, eu sou a Thais">
+  <img src="https://github.com/Thaisramos13/Thaisramos13/raw/main/assets/header-github.gif" alt="Oi, eu sou a Thais" > 
 </p>
 
 <!--
@@ -11,7 +11,6 @@ Then i recorded my screen to gif on Mac with Quicktime  and save result to [asse
 This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
-
 
 - 🌱 atualmente estou atualizando **Power BI,Excel e SQL**
 
