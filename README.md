@@ -12,7 +12,7 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-- 🌱 atualmente estou atualizando **Power BI,Excel e SQL**
+- 🌱 atualmente estou estudando **Power BI,Excel e SQL**
 
 - 👯 Eu também trabalho como Analista de suporte **Suporte N1 +A Educação**
 
@@ -27,7 +27,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <h3 align="left">Ferramentas:
           </ h3>
           <p align= "left"><a href= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40" </a>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain-wordmark.svg" alt="Chrome" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40"</a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40" </a>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain-wordmark.svg" alt="Chrome" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40"</a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40" </a>
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thaisramos13&label=Profile%20views&color=0e75b6&style=flat" alt="Thaisramos13" /> </p>
