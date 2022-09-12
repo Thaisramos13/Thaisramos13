@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 🌱 atualmente estou estudando **Power BI,Excel e SQL**
 
-- 👯 Eu também trabalho como Analista de suporte **Suporte N1 +A Educação**
+- 👯 Eu também trabalho como Analista de suporte **Data Science Intern na Zup Innovation**
 
 - 💬 Me pergunte sobre **Power BI, SQL e Excel**
 
